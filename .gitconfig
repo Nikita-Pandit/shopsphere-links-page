@@ -1,0 +1,6 @@
+[user]
+	name = Nikita Pandit
+	email = nikitapandit651@gmail.com
+[core]
+	editor = code --wait
+	autocrlf = input

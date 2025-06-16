@@ -1,0 +1,170 @@
+46:43:20.220231          Log continuation - Log started 2023-03-01T19:34:21.923802200Z
+46:43:20.292029          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:43:20.315095          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:43:20.320785          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:43:20.325994          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:43:20.341826          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:43:23.734597 USBPROXY usbLibGetDevices: Starting USB device enumeration
+46:43:23.801408 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+46:43:23.802250 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+46:43:23.802540 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+46:43:23.802607 USBPROXY USB: Unknown USB device detected (idVendor: 0x06cb, idProduct: 0x00be)
+46:43:24.425582 USBPROXY usbLibGetDevices: Starting USB device enumeration
+46:43:26.804166 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+46:43:26.811770 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+46:43:26.812009 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+46:44:04.138426          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:44:04.151728          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:44:04.152419          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:44:04.155429          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:44:04.155705          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:44:04.176153          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:44:05.447740 dns-monitor HostDnsMonitor: updating information
+46:44:05.447795 dns-monitor HostDnsMonitor: old information
+46:44:05.447802 dns-monitor   no server entries
+46:44:05.447807 dns-monitor   no domain set
+46:44:05.447811 dns-monitor   no search string entries
+46:44:05.447816 dns-monitor HostDnsMonitor: new information
+46:44:05.447821 dns-monitor   server 1: 192.168.104.10
+46:44:05.447826 dns-monitor   server 2: 8.8.8.8
+46:44:05.447831 dns-monitor   domain: dhcp01
+46:44:05.447836 dns-monitor   no search string entries
+46:44:08.543406          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:44:08.584547          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:44:08.584804          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:44:08.606419          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:44:08.606709          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:44:08.611373          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:44:09.729942 dns-monitor HostDnsMonitor: updating information
+46:44:09.729976 dns-monitor HostDnsMonitor: unchanged
+46:44:12.953414          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:44:12.957308          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:44:12.957906          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:44:12.961876          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:44:12.965100          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:44:12.969357          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:45:20.664774 USBPROXY usbLibGetDevices: Starting USB device enumeration
+46:45:20.804423 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+46:45:20.804804 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+46:45:20.804891 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+46:45:20.805837 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+46:45:20.805885 USBPROXY USB: Unknown USB device detected (idVendor: 0x06cb, idProduct: 0x00be)
+46:45:21.607192 USBPROXY usbLibGetDevices: Starting USB device enumeration
+46:45:21.707877 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+46:45:21.708753 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+46:45:21.709884 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+46:45:21.729823 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+46:48:55.654637 dns-monitor HostDnsMonitor: updating information
+46:48:55.654692 dns-monitor HostDnsMonitor: old information
+46:48:55.654699 dns-monitor   server 1: 192.168.104.10
+46:48:55.654705 dns-monitor   server 2: 8.8.8.8
+46:48:55.654710 dns-monitor   domain: dhcp01
+46:48:55.654715 dns-monitor   no search string entries
+46:48:55.654721 dns-monitor HostDnsMonitor: new information
+46:48:55.654725 dns-monitor   server 1: 192.168.104.10
+46:48:55.654730 dns-monitor   server 2: 8.8.8.8
+46:48:55.654735 dns-monitor   domain: dhcp02
+46:48:55.654739 dns-monitor   no search string entries
+46:50:28.470244 createBase Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:50:28.473707 createBase Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:50:28.513029          Saving settings file "C:\Users\KIIT\VirtualBox VMs\Code with Nikita pandit\Code with Nikita pandit.vbox" with version "1.19-windows"
+46:50:28.515789          Finished saving settings file "C:\Users\KIIT\VirtualBox VMs\Code with Nikita pandit\Code with Nikita pandit.vbox"
+46:50:28.516004          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:50:28.518443          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:50:28.532132          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:50:28.536403          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:50:28.539719          Saving settings file "C:\Users\KIIT\VirtualBox VMs\Code with Nikita pandit\Code with Nikita pandit.vbox" with version "1.19-windows"
+46:50:28.545051          Finished saving settings file "C:\Users\KIIT\VirtualBox VMs\Code with Nikita pandit\Code with Nikita pandit.vbox"
+46:50:28.561446          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:50:28.564487          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:50:28.997609          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:50:29.003867          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:50:29.010484          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:51:44.244705          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:51:44.253993          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:51:44.267687          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:51:44.277935          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:51:44.296117          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:51:44.604115          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:51:44.612487          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:51:44.627995          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:51:44.628503          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:51:44.697115          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:51:44.992536          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:51:44.996406          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:51:45.015342          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:51:45.019128          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:51:45.024855          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:51:50.453177          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:51:50.461222          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:51:50.479616          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:51:50.480330          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:51:50.490831          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:53:18.750108          Launched VM: 3823477296 pid: 84808 (0x14b48) frontend: GUI/Qt name: Code with Nikita pandit
+46:53:18.780841          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:53:18.797915          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:53:18.807948          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:53:28.995068          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:53:29.006571          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:53:29.008876          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+46:53:29.963440          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+46:53:34.299286          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+46:53:34.840609          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:53:34.843646          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:53:34.848353          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:53:34.852731          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:53:34.862691          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:53:34.867213          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:53:34.879278          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:53:34.882409          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:53:34.884751          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+46:53:34.887749          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+46:53:35.076403          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+46:53:35.079562          Saving settings file "C:\Users\KIIT\VirtualBox VMs\Code with Nikita pandit\Code with Nikita pandit.vbox" with version "1.19-windows"
+46:53:35.082690          Finished saving settings file "C:\Users\KIIT\VirtualBox VMs\Code with Nikita pandit\Code with Nikita pandit.vbox"
+46:53:35.099047          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+46:53:35.116863          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+46:53:35.125652          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+46:53:35.125871          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+46:53:37.029981          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+46:53:37.113741          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+46:53:37.138880          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+46:53:37.146620          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+46:53:40.002597          Saving settings file "C:\Users\KIIT\VirtualBox VMs\Code with Nikita pandit\Code with Nikita pandit.vbox" with version "1.19-windows"
+46:53:40.015034          Finished saving settings file "C:\Users\KIIT\VirtualBox VMs\Code with Nikita pandit\Code with Nikita pandit.vbox"
+46:53:40.047798          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+46:53:40.048654          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+46:53:40.052168          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+46:54:05.850537 USBPROXY usbLibGetDevices: Starting USB device enumeration
+46:54:05.945401 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+46:54:05.945519 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+46:54:05.945598 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+46:54:05.945850 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+46:59:20.220873 USBPROXY usbLibGetDevices: Starting USB device enumeration
+46:59:20.303959 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+46:59:20.304077 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+46:59:20.304154 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+46:59:20.304391 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+46:59:42.648268 USBPROXY usbLibGetDevices: Starting USB device enumeration
+46:59:42.985060 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+46:59:42.985214 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+46:59:42.985337 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+46:59:42.985647 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+47:04:05.752582 dns-monitor HostDnsMonitor: updating information
+47:04:05.752631 dns-monitor HostDnsMonitor: unchanged
+47:15:01.224153 USBPROXY usbLibGetDevices: Starting USB device enumeration
+47:15:01.300865 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+47:15:01.300976 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+47:15:01.301060 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+47:15:01.301320 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+47:19:16.724776 USBPROXY usbLibGetDevices: Starting USB device enumeration
+47:19:16.780386 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+47:19:16.780476 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+47:19:16.780554 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+47:19:16.780751 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+47:19:17.702774 dns-monitor HostDnsMonitor: updating information
+47:19:17.702805 dns-monitor HostDnsMonitor: unchanged
+47:34:17.827505 dns-monitor HostDnsMonitor: updating information
+47:34:17.827753 dns-monitor HostDnsMonitor: unchanged
+56:45:53.953217 dns-monitor HostDnsMonitor: updating information
+56:45:53.953510 dns-monitor Log rotated - Log started 2023-03-01T19:34:21.923802200Z

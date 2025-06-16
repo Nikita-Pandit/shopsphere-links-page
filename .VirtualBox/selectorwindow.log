@@ -1,0 +1,20 @@
+00:00:00.638705 VirtualBox GUI VM Selector Window 7.0.14 r161095 win.amd64 (Jan 15 2024 14:59:30) release log
+00:00:00.638706 Log opened 2024-02-28T17:36:24.164024400Z
+00:00:00.638707 Build Type: release
+00:00:00.638710 OS Product: Windows 11
+00:00:00.638711 OS Release: 10.0.22631
+00:00:00.638711 OS Service Pack: 
+00:00:00.649176 DMI Product Name: 82HS
+00:00:00.652341 DMI Product Version: IdeaPad Flex 5 14ITL05
+00:00:00.652355 Firmware type: UEFI
+00:00:00.652633 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.652649 Host RAM: 15931MB (15.5GB) total, 7401MB (7.2GB) available
+00:00:00.652652 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.652652 Process ID: 10888
+00:00:00.652653 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.652811 Qt version: 5.15.2
+00:00:00.653523 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.674940 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.674966 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:08:16.336738 GUI: UICommon: Handling aboutToQuit request..
+00:08:17.425942 GUI: UICommon: aboutToQuit request handled!

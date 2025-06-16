@@ -1,0 +1,120 @@
+00:00:00.003956 main     VirtualBox COM Server 7.0.14 r161095 win.amd64 (Jan 15 2024 14:59:30) release log
+00:00:00.003958 main     Log opened 2024-02-28T17:36:23.647288400Z
+00:00:00.003958 main     Build Type: release
+00:00:00.003963 main     OS Product: Windows 11
+00:00:00.003963 main     OS Release: 10.0.22631
+00:00:00.003963 main     OS Service Pack: 
+00:00:00.072028 main     DMI Product Name: 82HS
+00:00:00.086894 main     DMI Product Version: IdeaPad Flex 5 14ITL05
+00:00:00.086914 main     Firmware type: UEFI
+00:00:00.087613 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.087644 main     Host RAM: 15931MB (15.5GB) total, 7417MB (7.2GB) available
+00:00:00.087650 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.087651 main     Process ID: 15008
+00:00:00.087652 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.159842          VirtualBox: object creation starts
+00:00:00.162534          Home directory: 'C:\Users\KIIT\.VirtualBox'
+00:00:00.163145          Installed Drivers:
+00:00:00.165809            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.14.11095)
+00:00:00.167350            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.14.11095)
+00:00:00.168714            C:\WINDOWS\system32\DRIVERS\VBoxSup.sys (Version: 7.0.14.11095)
+00:00:00.169992            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.14.11095)
+00:00:00.193444          Loading settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.208668          usbLibGetDevices: Starting USB device enumeration
+00:00:00.272231          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.273135          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:00:00.273210          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1835d3ba&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.275540          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.277971          USB: Unknown USB device detected (idVendor: 0x06cb, idProduct: 0x00be)
+00:00:00.280454          USB: Unknown USB device detected (idVendor: 0x5986, idProduct: 0x212a)
+00:00:00.280480          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0026)
+00:00:00.423839          netIfIsWireless: CreateFile on '\\.\{32BF7F8C-6129-45D1-A164-F02251A29536}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.428994          HostDnsMonitor: initializing
+00:00:00.434719          HostDnsMonitor: updating information
+00:00:00.435750          HostDnsMonitor: old information
+00:00:00.435751            no server entries
+00:00:00.435751            no domain set
+00:00:00.435752            no search string entries
+00:00:00.435752          HostDnsMonitor: new information
+00:00:00.435752            server 1: 192.168.104.10
+00:00:00.435753            server 2: 8.8.8.8
+00:00:00.435753            domain: dhcp02
+00:00:00.435753            no search string entries
+00:00:00.445270          VD: VDInit finished with VINF_SUCCESS
+00:00:00.463110          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\KIIT\Music\Win8.1\ubuntu 22.04.2\ubuntu 22.04.2.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:00.463120          D:\tinderboxa\win-7.0\src\VBox\Main\src-server\MachineImpl.cpp[1011] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.464526          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\KIIT\AppData\Local\Temp\c900d696-e64e-424f-9923-a13c447a7969_kali-linux-2023.4-virtualbox-amd64.7z.969\kali-linux-2023.4-virtualbox-amd64\kali-linux-2023.4-virtualbox-amd64.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:00.464530          D:\tinderboxa\win-7.0\src\VBox\Main\src-server\MachineImpl.cpp[1011] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.466111          VirtualBox: object created
+00:00:00.542574          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.545817          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+00:00:00.545868          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.548206          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+00:00:00.548293          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.550243          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+00:00:00.550287          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.552342          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+00:00:00.552417          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.555201          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+00:00:00.555291          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.557867          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+00:00:00.917755          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\KIIT\Music\Win8.1\ubuntu 22.04.2\ubuntu 22.04.2.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:00.917760          D:\tinderboxa\win-7.0\src\VBox\Main\src-server\MachineImpl.cpp[1011] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.918219          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\KIIT\Music\Win8.1\ubuntu 22.04.2\ubuntu 22.04.2.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:00.918222          D:\tinderboxa\win-7.0\src\VBox\Main\src-server\MachineImpl.cpp[1011] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.918707          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\KIIT\Music\Win8.1\ubuntu 22.04.2\ubuntu 22.04.2.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:00.918710          D:\tinderboxa\win-7.0\src\VBox\Main\src-server\MachineImpl.cpp[1011] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.919356          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\KIIT\Music\Win8.1\ubuntu 22.04.2\ubuntu 22.04.2.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:00.919359          D:\tinderboxa\win-7.0\src\VBox\Main\src-server\MachineImpl.cpp[1011] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.919799          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\KIIT\Music\Win8.1\ubuntu 22.04.2\ubuntu 22.04.2.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:00.919802          D:\tinderboxa\win-7.0\src\VBox\Main\src-server\MachineImpl.cpp[1011] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.920454          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\KIIT\Music\Win8.1\ubuntu 22.04.2\ubuntu 22.04.2.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:00.920457          D:\tinderboxa\win-7.0\src\VBox\Main\src-server\MachineImpl.cpp[1011] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.924016          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\KIIT\AppData\Local\Temp\c900d696-e64e-424f-9923-a13c447a7969_kali-linux-2023.4-virtualbox-amd64.7z.969\kali-linux-2023.4-virtualbox-amd64\kali-linux-2023.4-virtualbox-amd64.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:00.924019          D:\tinderboxa\win-7.0\src\VBox\Main\src-server\MachineImpl.cpp[1011] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.924359          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\KIIT\AppData\Local\Temp\c900d696-e64e-424f-9923-a13c447a7969_kali-linux-2023.4-virtualbox-amd64.7z.969\kali-linux-2023.4-virtualbox-amd64\kali-linux-2023.4-virtualbox-amd64.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:00.924362          D:\tinderboxa\win-7.0\src\VBox\Main\src-server\MachineImpl.cpp[1011] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.924843          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\KIIT\AppData\Local\Temp\c900d696-e64e-424f-9923-a13c447a7969_kali-linux-2023.4-virtualbox-amd64.7z.969\kali-linux-2023.4-virtualbox-amd64\kali-linux-2023.4-virtualbox-amd64.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:00.924846          D:\tinderboxa\win-7.0\src\VBox\Main\src-server\MachineImpl.cpp[1011] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.925239          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\KIIT\AppData\Local\Temp\c900d696-e64e-424f-9923-a13c447a7969_kali-linux-2023.4-virtualbox-amd64.7z.969\kali-linux-2023.4-virtualbox-amd64\kali-linux-2023.4-virtualbox-amd64.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:00.925242          D:\tinderboxa\win-7.0\src\VBox\Main\src-server\MachineImpl.cpp[1011] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.925908          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\KIIT\AppData\Local\Temp\c900d696-e64e-424f-9923-a13c447a7969_kali-linux-2023.4-virtualbox-amd64.7z.969\kali-linux-2023.4-virtualbox-amd64\kali-linux-2023.4-virtualbox-amd64.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:00.925911          D:\tinderboxa\win-7.0\src\VBox\Main\src-server\MachineImpl.cpp[1011] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.926234          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\KIIT\AppData\Local\Temp\c900d696-e64e-424f-9923-a13c447a7969_kali-linux-2023.4-virtualbox-amd64.7z.969\kali-linux-2023.4-virtualbox-amd64\kali-linux-2023.4-virtualbox-amd64.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:00.926237          D:\tinderboxa\win-7.0\src\VBox\Main\src-server\MachineImpl.cpp[1011] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:12.452161          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:12.463870          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+00:00:12.488726          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:12.491908          Finished saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml"
+00:00:15.266026 dns-monitor HostDnsMonitor: updating information
+00:00:15.266054 dns-monitor HostDnsMonitor: unchanged
+00:00:20.568038 dns-monitor HostDnsMonitor: updating information
+00:00:20.568074 dns-monitor HostDnsMonitor: old information
+00:00:20.568078 dns-monitor   server 1: 192.168.104.10
+00:00:20.568082 dns-monitor   server 2: 8.8.8.8
+00:00:20.568086 dns-monitor   domain: dhcp02
+00:00:20.568089 dns-monitor   no search string entries
+00:00:20.568093 dns-monitor HostDnsMonitor: new information
+00:00:20.568096 dns-monitor   server 1: 192.168.104.10
+00:00:20.568099 dns-monitor   server 2: 10.2.0.21
+00:00:20.568103 dns-monitor   server 3: 8.8.8.8
+00:00:20.568106 dns-monitor   domain: dhcp01
+00:00:20.568109 dns-monitor   no search string entries
+00:00:35.478975 dns-monitor HostDnsMonitor: updating information
+00:00:35.479011 dns-monitor HostDnsMonitor: unchanged
+00:03:37.191475 dns-monitor HostDnsMonitor: updating information
+00:03:37.191552 dns-monitor HostDnsMonitor: old information
+00:03:37.191561 dns-monitor   server 1: 192.168.104.10
+00:03:37.191570 dns-monitor   server 2: 10.2.0.21
+00:03:37.191578 dns-monitor   server 3: 8.8.8.8
+00:03:37.191586 dns-monitor   domain: dhcp01
+00:03:37.191593 dns-monitor   no search string entries
+00:03:37.191601 dns-monitor HostDnsMonitor: new information
+00:03:37.191608 dns-monitor   server 1: 8.8.8.8
+00:03:37.191615 dns-monitor   domain: dhcp01
+00:03:37.191622 dns-monitor   no search string entries
+00:08:23.289075 main     VirtualBox: object deletion starts
+00:08:23.296868 main     HostDnsMonitor: shutting down ...
+00:08:23.296982 main     HostDnsMonitor: shut down
+00:08:23.302737 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:08:23.303578 main     VirtualBox: object deleted
